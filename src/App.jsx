@@ -3,7 +3,6 @@ import Header from './components/Header';
 import Modules from './components/Modules';
 import ImagesSection from './components/ImagesSection';
 import Footer from './components/Footer';
-import Front from './components/ActivityZone'; // Import the Front component
 import ActivityZone from './components/ActivityZone';
 
 const App = () => {
