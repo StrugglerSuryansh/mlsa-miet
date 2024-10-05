@@ -10,7 +10,7 @@ const App = () => {
   return (
     <div className="flex flex-col min-h-screen bg-[#ffe9c9]">
       <Header />
-      <Front /> {/* Add the Front component here */}
+      <ActivityZone /> {/* Add the Front component here */}
       <main className="flex-grow">
         <Modules />
         <ImagesSection />
