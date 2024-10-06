@@ -18,7 +18,6 @@ const ActivityZone = () => {
           <button className="bg-orange-300 text-white px-6 py-2 rounded-full flex items-center">
             October 24 - December 24
             {/* You can add a down arrow here as a simple text or an emoji if needed */}
-            <span className="ml-2">▼</span>
           </button>
         </div>
       </main>

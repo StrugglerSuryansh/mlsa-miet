@@ -24,8 +24,8 @@ const Footer = () => {
         <div className="text-right">
           <p><b>Address</b>  : <br />  Delhi-Roorkee Highway, <br />  Baghpat Bypass <br />  Meerut</p>
           <p> <b>Contact Number:</b> <br /> 8057296589</p>
-          <p>mlsamiet@gmail.com</p>
-          <p className="mt-2 ">©MLSA MIET</p>
+         
+         
         </div>
       </div>
       
